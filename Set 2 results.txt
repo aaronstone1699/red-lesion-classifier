@@ -1,0 +1,5 @@
+predicted results from model in Set 2
+
+
+lesions : 325
+normal : 275
